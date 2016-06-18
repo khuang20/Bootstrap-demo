@@ -1,0 +1,16 @@
+#voltage{
+	color: #E3E3E3;
+	text-align: center;
+}
+#greyrec{
+	background-color: #626262;
+	height: 50px;
+	width: 1000px;
+	margin: -45px auto;
+
+}
+#green{
+	background-color: #00CF00;
+	height: 50px;
+	width: 50px;
+}
